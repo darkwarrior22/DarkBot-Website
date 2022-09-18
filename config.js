@@ -5,7 +5,7 @@ import { MdAddModerator } from "react-icons/md";
 import { SiProbot } from "react-icons/si";
 import { TbMessage2Code } from "react-icons/tb";
 const config = {
-  name: "DarkBot",
+  name: "WarriorBot",
   //BotName
   inviteLink:
     "https://discord.com/api/oauth2/authorize?client_id=1021065343663349811&permissions=8&scope=bot",
