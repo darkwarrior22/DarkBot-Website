@@ -8,7 +8,7 @@ const config = {
   name: "WarriorBot",
   //BotName
   inviteLink:
-    "https://discord.com/api/oauth2/authorize?client_id=1021065343663349811&permissions=8&scope=bot",
+    "https://discord.com/api/oauth2/authorize?client_id=1021114482732306635&permissions=8&scope=bot",
   //BotInvite Link
   Features: [
     {
